@@ -1,0 +1,57 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin: 150px auto;
+  }
+  input {
+    border: none;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 14px;
+  }
+  .lastChild {
+    margin-bottom: 40px;
+  }
+  button {
+    width: 200px;
+    margin: 30px auto;
+    padding: 14px;
+    border: none;
+    background-color: blueviolet;
+    color: white;
+    font-size: 21px;
+    font-weight: 700;
+    border-radius: 20px;
+  }
+  button:hover {
+    cursor: pointer;
+    box-shadow: 0 0 10px rgb(49, 3, 59);
+  }
+  
+
+  /* .email-error {
+    color: red;
+    font-weight: bold;
+  }
+  .first-name-error {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .last-name-error {
+    color: red;
+    font-weight: bold;
+  } */
+ .success-message{
+    color: rgb(44, 181, 32);
+    font-weight: bold;
+  }
+
+  span{
+    color: red;
+    font-weight: bold;
+  }
+  
+  
